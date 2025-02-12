@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - yandex_maps_mapkit (1.0.0):
+    - Flutter
+    - YandexMapsMobile (= 4.10.1-beta-full-flutter)
+  - YandexMapsMobile (4.10.1-beta-full-flutter)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - yandex_maps_mapkit (from `.symlinks/plugins/yandex_maps_mapkit/ios`)
+
+SPEC REPOS:
+  trunk:
+    - YandexMapsMobile
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  yandex_maps_mapkit:
+    :path: ".symlinks/plugins/yandex_maps_mapkit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  yandex_maps_mapkit: e2e773b559d6f97d19971ea8f5dba760a497617b
+  YandexMapsMobile: ca65f0a9915f79ce5fdfad95916de8000147c94d
+
+PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+
+COCOAPODS: 1.15.2
